@@ -1,4 +1,5 @@
 # Space Invaders
+![image](https://github.com/Diogojfbraga/Galactic-Guardian-Asteroid-Assault/assets/67931865/87a5661a-d6e1-4e51-8d91-c8823b8e298f)
 
 Welcome to Space Invaders, a classic arcade-style game built using p5.js. Defend the Earth from incoming asteroids using your spaceship and rack up points by destroying them.
 
